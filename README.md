@@ -1,0 +1,3 @@
+# demo project
+
+Project composed by modules with demos, hello words, templates, etc ...
